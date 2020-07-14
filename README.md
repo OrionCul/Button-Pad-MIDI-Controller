@@ -1,5 +1,7 @@
 # Button Pad MIDI Controller
 
+![Image of MIDI Controller](MIDI Controller Photos/MIDI Controller Front.jpg)
+
 This is a 4x4 Button MIDI controller with 6 side buttons that each load their own sets of MIDI notes that can be triggered at the press of the button.
 
 Each arcade button lights up when it's pressed, and triggers a MIDI note which is sent to the computer. Which side button is active is indicated by which has its LED lit.
