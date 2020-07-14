@@ -1,6 +1,6 @@
 # Button Pad MIDI Controller
 
-![Image of MIDI Controller](MIDI Controller Photos/MIDI Controller Front.jpg)
+![Image of MIDI Controller](/MIDI Controller Photos/MIDI Controller Front.jpg)
 
 This is a 4x4 Button MIDI controller with 6 side buttons that each load their own sets of MIDI notes that can be triggered at the press of the button.
 
